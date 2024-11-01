@@ -28,7 +28,7 @@ export const App: React.FC = () => {
 	}, []);
 
 	return (
-		<BrowserRouter basename="https://test-front-itacwt.vercel.app/">
+		<BrowserRouter>
 			<Header routes={routes} />
 
 			<main className="p-4">
