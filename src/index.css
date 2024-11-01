@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+.custom-table {
+    display: flex;
+    align-items: stretch;
+    justify-items: stretch;
+
+  }
+
+.custom-cell {
+  @apply py-2 px-4 border-b border-gray-300 w-full whitespace-nowrap overflow-auto min-h-16;
+}
+
+
+
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-front-itacwt/static/css/main.7ebeb573.css",
+    "main.js": "/test-front-itacwt/static/js/main.f9f211d3.js",
+    "index.html": "/test-front-itacwt/index.html",
+    "main.7ebeb573.css.map": "/test-front-itacwt/static/css/main.7ebeb573.css.map",
+    "main.f9f211d3.js.map": "/test-front-itacwt/static/js/main.f9f211d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebeb573.css",
+    "static/js/main.f9f211d3.js"
+  ]
+}
